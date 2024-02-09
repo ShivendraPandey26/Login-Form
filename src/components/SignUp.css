@@ -1,0 +1,36 @@
+/* body{
+    background-color: #1879df;
+    background-image: linear-gradient(180deg, #1879df 17%, #B721FF 100%);
+    
+} */
+
+.under-line {
+  width: 81px;
+  height: 6px;
+  background-color: rgb(29 78 216 / var(--tw-text-opacity));
+  border-radius: 50px;
+}
+
+.submit {
+  width: 10rem;
+  height: 3.6rem;
+  background-color: #1d4ed8;
+  font-size: 1.5rem;
+  color: #fff;
+  border-radius: 50px;
+  text-align: center;
+  font-weight: 700;
+}
+
+.submit:hover {
+  background: #031d65;
+}
+
+.graycolor {
+  background: #eaeaea;
+  color: #676767;
+}
+
+.graycolor:hover {
+  background: #cecdcd;
+}
